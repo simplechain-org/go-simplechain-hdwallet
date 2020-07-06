@@ -34,7 +34,7 @@
   name = "github.com/btcsuite/btcutil"
 
 [[constraint]]
-  name = "github.com/ethereum/go-ethereum"
+  name = "github.com/simplechain-org/go-simplechain"
   version = "1.8.11"
 
 [[constraint]]
